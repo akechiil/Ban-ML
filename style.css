@@ -137,3 +137,32 @@ input[type="checkbox"]:checked + .label-ban14 {
   background-color: lightcoral;
   color: black;
 }
+.container-pick {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid rgb(0, 119, 255);
+  margin-top: 10px;
+}
+.hero-counter {
+  position: relative;
+}
+.hero-counter .counter-tooltip {
+  position: absolute;
+  background-color: rgb(88, 88, 88);
+  column-gap: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid white;
+  bottom: 0px;
+  left: 50px;
+  display: flex;
+  opacity: 0;
+  transition: opacity 0.25s;
+  pointer-events: none;
+}
+.hero-counter:hover .counter-tooltip {
+  opacity: 1;
+}
