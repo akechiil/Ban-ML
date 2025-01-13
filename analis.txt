@@ -1,88 +1,131 @@
+UPDATE:
+Finis dimelissa
+
+
 A
+aldos = lukas 
+alice = zhuxin
+alpha = cici
+arlott = argus fredrinn hanzo minsit layla
+altas = novaria
+alucard = fredrinn melissa
+angela = julian
 
 B
-badang = phaveus esme lolita baxia gatot Lukas
+badang = phaveus esme lolita baxia gatot Lukas cici
+baxia = suyou joy
+barats = zhuxin xavier
+balmond = cici
+benedetta = cici
+bane = nolan ixia
+belerick = novaria xavier
 
 C
-clint = kagura,aldos,benet,karina,fanny,beatrix,brody
-ceci = ling,lance,aldos,lolita
+clint = kagura aldos benet karina fanny beatrix brody
+ceci = ling lance aldos lolita
 chou = Lukas 
+cici = sun ling lancelot akai yve eudora mathilda xborg masha arlott
 
 D
-dyrot = lylia,thamus,silvana,chou,lunox,argus,ruby,harith,phaveus,kagura,kaja
+dyrot = lylia thamus silvana chou lunox argus ruby harith phaveus kagura kaja
+diggie = julian
 
 E
+eudora = lukas fredrinn
+estes = nolan ixia
+esme = julian 
 
 F
-fanny = saber,franco,kaja,eudora,kufra,moskov
+fanny = saber franco kaja eudora kufra moskov
+fredrinn = cici valir hanzo xborg karrie baxia
+floryn = nolan
+faramis = julian melissa
 
 G
-granger = iritel
+granger = iritel joy
+gloo = cici xavier
 
 H
-hanzo = aldus,natalia,harley,saber,yss,argus,zilong,vale,tigrel,helcrut,ling,lance,lunox
-hilda = tigreal,jawhead,sun,dyroth,wanwan,valir,esme
-helcrut = hylos,kufra,eudora,nata,saber,kaja
+hanzo = aldus natalia harley saber yss argus zilong vale tigrel helcrut ling lance lunox nolan joy
+hilda = tigreal jawhead sun dyroth wanwan valir esme
+helcrut = hylos kufra eudora nata saber kaja
 harith = moskov bruno granger kaja franco
+hylos = cici
 
 I
+ixia = hanzo wanwna kadita natalia claude
 
 J
-joy = khaled 
+joy = khaled moskov eudora
+julian = baxia granger minsit gord edith
 
 K
-karina = franco,chou,dyrot,fanny,ling,x borg,khaled,lapu,lunox,sun,kaja,paqu
-kaja = alice,xborg,change,franco,popolkupa,kagura,benet,harley
+karina = franco chou dyrot fanny ling x borg khaled lapu lunox sun kaja paqu suyou
+kaja = alice xborg change franco popolkupa kagura benet harley fredrinn
 
 L
-lancelot = kufra,ruby,lylia,kadita,eudora,brody,chou,benet,helcrut,nata,kaja
-lylia = kaja,saber,harley,edit,popolkupa
+lancelot = kufra ruby lylia kadita eudora brody chou benet helcrut nata kaja
+lylia = kaja saber harley edit popolkupa suyou
 Lukas = cici thamuz hilda phaveus
+ling = Lukas 
+lunox = suyou
+lolita = Zhuxin ixia melissa
+luo yi= novaria
+lapu lapu = novaria
 
 M
-moskov = aurora,kaja,eudora,franco,lesley,gatot,chou,kagura,karina,saber,helcurt,kaja
-masha = sun,guin,esme,selena,uranus,valir roam,baxia,nana,hylos,karrie
+moskov = aurora kaja eudora franco lesley gatot chou kagura karina saber helcurt kaja
+masha = sun guin esme selena uranus valir roam baxia nana hylos karrie
+mino = ixia
+martis = novaria
+melissa = belerick terizla granger xborg baxia
 
 N
-natalia = chou,roger,hylos,selena,yss,aldos,kaja
+natalia = chou roger hylos selena yss aldos kaja zhuxin
+nolan = natalia saber masha haya hilda alpha 
+novaria = natalia estes hilda haya
 
 O
+odette = fredrinn
 
 P
 phaveus = gloo alpha cici
+popolkupa = ixia melissa
 
 Q
 
 R
+rafaela = nolan
+ruby = arlott
 
 S
-selena = chou,franco,saber,popol,phaveus
-sun = khaled,guin,badang,xborg,fanny,silvana,carmila,yuzong,gatot,ruby
+selena = chou franco saber popol phaveus
+sun = khaled guin badang xborg fanny silvana carmila yuzong gatot ruby suyou joy julian melissa
+silvana = lukas
+saber = fredrinn
 
 T
-thamus = sun,yuzong,lunox,lapu²,karrie,granger,haya,hylos
-tigreal = nana eudora martis valir baxia
+thamuz = sun yuzong lunox lapu² karrie granger haya hylos zhuxin cici
+tigreal = nana eudora martis valir baxia cici
+terizla = cici xavier
 
 U
+uranus = arlott xavier
 
 V
 
 W
-wanwan = nata,popol kupa,karina,ling,fanny,kaja,franco,kufra,haya,lolita
+wanwan = nata popol kupa karina ling fanny kaja franco kufra haya lolita
 
 X
+xborg = arlott joy 
+xavier = natalia helcurt lolita zilong saber
 
 Y
-yin = dyrot,karina,sun,paquito,argus,freya,zaks,fanny,gatot,wanwan
-yz = lunox,balmon,paquito,
+yin = dyrot karina sun paquito argus freya zaks fanny gatot wanwan
+yz = lunox balmon paquito 
+yve = kadita
 
 Z
-
-
-
-
-build
-
-E=
-
-esme = cod,sepatu cooldown,lightningtroucen,magic persentil,divine glas,spellvamp
+zilong = lukas
+zhuxin = Belerick arlott
