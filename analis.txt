@@ -1,10 +1,12 @@
 A
 
 B
+badang = phaveus esme lolita baxia gatot Lukas
 
 C
 clint = kagura,aldos,benet,karina,fanny,beatrix,brody
 ceci = ling,lance,aldos,lolita
+chou = Lukas 
 
 D
 dyrot = lylia,thamus,silvana,chou,lunox,argus,ruby,harith,phaveus,kagura,kaja
@@ -15,15 +17,18 @@ F
 fanny = saber,franco,kaja,eudora,kufra,moskov
 
 G
+granger = iritel
 
 H
 hanzo = aldus,natalia,harley,saber,yss,argus,zilong,vale,tigrel,helcrut,ling,lance,lunox
 hilda = tigreal,jawhead,sun,dyroth,wanwan,valir,esme
 helcrut = hylos,kufra,eudora,nata,saber,kaja
+harith = moskov bruno granger kaja franco
 
 I
 
 J
+joy = khaled 
 
 K
 karina = franco,chou,dyrot,fanny,ling,x borg,khaled,lapu,lunox,sun,kaja,paqu
@@ -32,6 +37,7 @@ kaja = alice,xborg,change,franco,popolkupa,kagura,benet,harley
 L
 lancelot = kufra,ruby,lylia,kadita,eudora,brody,chou,benet,helcrut,nata,kaja
 lylia = kaja,saber,harley,edit,popolkupa
+Lukas = cici thamuz hilda phaveus
 
 M
 moskov = aurora,kaja,eudora,franco,lesley,gatot,chou,kagura,karina,saber,helcurt,kaja
@@ -43,6 +49,7 @@ natalia = chou,roger,hylos,selena,yss,aldos,kaja
 O
 
 P
+phaveus = gloo alpha cici
 
 Q
 
@@ -50,10 +57,11 @@ R
 
 S
 selena = chou,franco,saber,popol,phaveus
-sun = khaled,argus,aldos,guin,badang,xborg,fanny,silvana,carmila,yuzong,gatot,ruby
+sun = khaled,guin,badang,xborg,fanny,silvana,carmila,yuzong,gatot,ruby
 
 T
 thamus = sun,yuzong,lunox,lapu²,karrie,granger,haya,hylos
+tigreal = nana eudora martis valir baxia
 
 U
 
