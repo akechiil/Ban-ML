@@ -4,28 +4,29 @@ UPDATE:
 A
 aldous = lukas estes esmeralda angela melissa roger
 alice = zhuxin thamuz change angela diggie karrie
-alpha = cici hanzo diggie lancelot
+alpha = cici hanzo diggie lancelot benedetta xborg argus
 arlott = argus fredrinn hanzo minsitthar layla martis
 atlas = novaria valentina natan yve benedetta wanwan ling benedetta hanzo claude diggie lancelot grock yss
-alucard = fredrinn melissa phoveus barats thamuz martis valir gatotkaca
+alucard = fredrinn melissa phoveus barats thamuz martis valir gatotkaca alpha
 angela = julian silvana zilong franco freya lolita harley
 argus = valentina change edith gatotkaca ruby sun popolkupa terizla
 aurora = hanzo diggie gloo yve benedetta
 
 B
 badang = phoveus esmeralda lolita baxia gatotkaca Lukas cici
-baxia = suyou joy gloo benedetta xborg faramis valir jawhead lesley lancelot
-barats = zhuxin xavier mathilda yve hanzo xborg karrie balmond valir cecilion hanabi uranus
+baxia = suyou joy gloo benedetta xborg faramis valir jawhead lesley lancelot ruby chou
+barats = zhuxin xavier mathilda yve hanzo xborg karrie balmond valir cecilion hanabi uranus alpha gord
 balmond = cici thamuz
 benedetta = cici valentina saber zilong phoveus irithel yss
-bane = nolan ixia hanzo vale helcurt
+bane = nolan ixia hanzo vale helcurt gord
 belerick = novaria xavier brody granger hanzo lesley xborg bane
 bordy = sun yss faramis zhask diggie
+beatrix = chou
 
 C
 clint = kagura aldous benet karina fanny beatrix brody
 cecilion = ling lancelot aldous lolita hanzo kadita novaria hayabusa
-chou = Lukas 
+chou = Lukas phoveus cyclops eudora chip
 cici = sun ling lancelot akai yve eudora mathilda xborg masha arlott estes
 carmilla = valentina benedetta angela
 claude = lesley cyclops bruno belerick saber
@@ -35,10 +36,10 @@ cyclops = lolita barats carmilla atlas layla
 
 D
 dyrot = lylia thamuz silvana chou lunox argus ruby harith phoveus kagura kaja masha benedetta minsitthar atlas
-diggie = julian hanzo change angela estes franco natalia floryn grock hilda
+diggie = julian hanzo change angela estes franco natalia floryn grock hilda freya
 
 E
-eudora = lukas fredrinn edith barats hanabi martis zhask hylos gatotkaca roger aurora
+eudora = lukas fredrinn edith barats hanabi martis zhask hylos gatotkaca roger aurora alpha sun
 estes = nolan ixia luo-yi atlas lapu-lapu aurora freya beatrix
 esmeralda = julian baxia dyroth hylos moskov
 edith = hanzo lolita layla gloo gord
@@ -48,27 +49,27 @@ fanny = saber franco kaja eudora kufra moskov badang
 fredrinn = cici valir hanzo xborg karrie baxia edith cecilion hylos
 floryn = nolan yin franco eudora lolita
 faramis = julian melissa luo-yi melissa barats leomord estes
-freya = esmeralda minsitthar jawhead edith
+freya = esmeralda minsitthar jawhead edith baxia franco barats
 
 G
 granger = irithel joy mathilda ling fanny lunox pharsa
 gloo = cici xavier natan faramis vexana wanwan fanny ling lancelot moskov
 gatotkaca = natan aldous lesley xborg aldous mathilda
 grock = gloo harith lunox lylia joy alice kimmy harley
-gord = harley
+gord = harley chou natalia ling wanwan helcurt
 
 H
-hanzo = natalia harley saber yss argus zilong vale tigreal helcurt ling lancelot lunox nolan joy benedetta wanwan kadita fanny claude aldous change irithel johnson moskov
+hanzo = natalia harley saber yss argus zilong vale tigreal helcurt ling lancelot lunox nolan joy benedetta wanwan kadita fanny claude aldous change irithel johnson moskov chou kagura hayabusa
 hilda = tigreal jawhead sun dyroth wanwan valir esmeralda alpha sun karrie estes
 helcurt = hylos kufra eudora natalia saber kaja brody khaleed aldous karina chip johnson
 harith = moskov bruno granger kaja franco minsitthar phoveus freya masha xavier cyclops
 hylos = cici xborg karrie xavier rafaela
 hanabi = yve granger belerick lunox esmeralda lolita gloo argus pharsa lapu-lapu
 harley = khaleed sun lolita popolkupa eudora fredrinn roger
-hayabusa = vexana
+hayabusa = vexana popolkupa eudora saber zhask chip
 
 I
-ixia = hanzo wanwan kadita natalia claude gloo grock
+ixia = hanzo wanwan kadita natalia claude gloo grock kagura
 irithel = bordy bruno eudora karina alucard miya
 
 J
@@ -81,8 +82,8 @@ K
 karina = franco chou dyrot fanny xborg khaleed lapu-lapu lunox sun kaja paquito suyou bordy granger jawhead
 kaja = alice xborg change franco popolkupa kagura benet harley fredrinn barats baxia uranus hanzo cyclops 
 khaleed = phoveus freya karrie hilda fanny
-kadita = faramis kaja wanwan martis valentina leomord yss
-kagura = harith
+kadita = faramis kaja wanwan martis valentina leomord yss kadita
+kagura = harith phoveus fredrinn kaja lukas
 kufra = yss barats bane alice phoveus valentina
 karrie = diggie rafaela sun xborg argus
 
@@ -91,8 +92,8 @@ lancelot = kufra ruby lylia kadita eudora brody chou benet helcurt natalia kaja 
 lylia = kaja saber harley edith popolkupa suyou mathilda
 Lukas = cici thamuz hilda phoveus
 ling = Lukas natalia karina cyclops saber hilda
-lunox = suyou badang yve faramis luo-yi gord cecilion
-lolita = Zhuxin ixia melissa yve khaleed cecilion esmeralda harith leomord claude pharsa zhask aurora
+lunox = suyou badang yve faramis luo-yi gord cecilion ruby
+lolita = Zhuxin ixia melissa yve khaleed cecilion esmeralda harith leomord claude pharsa zhask aurora kagura gord freya
 luo-yi= novaria benedetta hanzo lolita selena
 lapu-lapu = novaria esmeralda aldous baxia wanwan
 layla = atlas helcurt
@@ -120,7 +121,7 @@ O
 odette = fredrinn edith barats kadita vale nana gatotkaca vexana aurora
 
 P
-phoveus = gloo alpha cici cecilion minsitthar hanzo uranus
+phoveus = gloo alpha cici cecilion minsitthar hanzo uranus gord
 popolkupa = ixia melissa luo-yi hanabi sun carmilla atlas vale grock lapu-lapu
 pharsa = claude gloo masha paquito wanwan
 
@@ -128,14 +129,14 @@ Q
 
 R
 rafaela = nolan lunox grock
-ruby = arlott phoveus
+ruby = arlott phoveus barats xborg lolita
 roger = estes sun lapu-lapu zhuxin floryn
 
 S
 selena = chou franco saber popol phoveus johnson
-sun = khaleed guin badang xborg fanny silvana carmilla yuzong gatotkaca ruby suyou joy julian melissa natan faramis irithel lapu-lapu
+sun = khaleed guin badang xborg fanny silvana carmilla yuzong gatotkaca ruby suyou joy julian melissa natan faramis irithel lapu-lapu alucard
 silvana = lukas edith badang martis
-saber = fredrinn hanabi martis argus roger johnson
+saber = fredrinn hanabi martis argus roger johnson sun
 
 T
 thamuz = sun yuzong lunox lapu² karrie granger hayabusa hylos zhuxin cici  valir benedetta baxia
@@ -155,16 +156,16 @@ W
 wanwan = natalia popol kupa karina ling fanny kaja franco kufra hayabusa lolita cyclops faramis bruno zhask odette
 
 X
-xborg = joy valentina mathilda benedetta ling hanzo paquito aldous helcurt lancelot
-xavier = natalia helcurt lolita zilong saber harley moskov
+xborg = joy valentina mathilda benedetta ling hanzo paquito aldous helcurt lancelot chou
+xavier = natalia helcurt lolita zilong saber harley moskov hayabusa
 
 Y
-yin = dyrot karina sun paquito argus freya zhask fanny gatotkaca wanwan
+yin = dyrot karina sun paquito argus freya zhask fanny gatotkaca wanwan kagura
 yz = lunox balmond paquito 
 yve = kadita hanzo fanny wanwan novaria claude
 yss = uranus hilda estes karina alucard
 
 Z
 zilong = lukas jawhead johnson
-zhuxin = Belerick arlott badang zhask diggie
+zhuxin = Belerick arlott badang zhask diggie hayabusa
 zhask = baxia ruby belerick sun vexana
