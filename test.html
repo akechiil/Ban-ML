@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Urutan Angka</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        text-align: center;
+      }
+
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+
+      li {
+        padding: 10px;
+        margin: 5px;
+        background-color: #f0f0f0;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-size: 18px;
+      }
+
+      button {
+        padding: 10px 20px;
+        margin-top: 20px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+
+      button:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Urutan Angka</h1>
+    <ul id="numberList">
+      <li>15</li>
+      <li>8</li>
+      <li>23</li>
+      <li>42</li>
+      <li>4</li>
+    </ul>
+    <button onclick="sortNumbers()">Urutkan dari Tertinggi</button>
+
+    <script>
+      function sortNumbers() {
+        // Ambil elemen daftar angka
+        const list = document.getElementById("numberList");
+        const items = Array.from(list.children);
+
+        // Urutkan elemen berdasarkan angka (descending)
+        items.sort((a, b) => parseInt(b.textContent) - parseInt(a.textContent));
+
+        // Hapus isi daftar asli dan tambahkan elemen yang sudah diurutkan
+        list.innerHTML = "";
+        items.forEach((item) => list.appendChild(item));
+      }
+    </script>
+  </body>
+</html>
