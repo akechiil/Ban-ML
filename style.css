@@ -1,149 +1,51 @@
+.container,
+.container-pick {
+}
+
 .container {
   display: grid;
-  border: 1px solid red;
+  border: 1px solid #ea284b;
   padding: 10px;
   border-radius: 20px;
   column-gap: 10px;
   row-gap: 10px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
-@media (min-width: 0px) and (max-width: 275px) {
-  .container {
-    grid-template-columns: 1fr;
-  }
-}
-@media (min-width: 275.1px) and (max-width: 400px) {
-  .container {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-@media (min-width: 400.1px) and (max-width: 520px) {
-  .container {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-}
-@media (min-width: 520.1px) and (max-width: 650px) {
-  .container {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-  }
-}
-@media (min-width: 650.1px) and (max-width: 765px) {
-  .container {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  }
-}
-@media (min-width: 765.1px) and (max-width: 888px) {
-  .container {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-  }
-}
-@media (min-width: 888.1px) and (max-width: 1012px) {
-  .container {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  }
-}
-@media (min-width: 1012.1px) and (max-width: 1137px) {
-  .container {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  }
-}
-@media (min-width: 1137.1px) and (max-width: 1260px) {
-  .container {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  }
-}
-
 .container-hero {
-  border: 1px white solid;
   border-radius: 50px;
   padding: 5px 8px;
   display: flex;
   min-width: 95px;
   align-items: center;
   justify-content: space-between;
-  flex: 1;
+  box-shadow: -1px -2px 5px rgba(255, 255, 255, 0.1) inset,
+    5px 5px 5px rgba(0, 0, 0, 0.2) inset;
 }
 .img-hero {
   height: 40px;
+  border-radius: 50px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 input[type="checkbox"] {
   display: none;
 }
 label {
-  background-color: green;
+  background-color: #454955;
   cursor: pointer;
   padding: 5px 10px;
   flex: 1;
-  margin-left: 5px;
+  margin-right: 5px;
   border-radius: 50px;
   display: flex;
   justify-content: center;
-}
-
-input[type="checkbox"]:checked + .label-ban1 {
-  background-color: lightcoral;
-  color: black;
-}
-
-input[type="checkbox"]:checked + .label-ban2 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban3 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban4 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban5 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban6 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban7 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban8 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban9 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban10 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban11 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban12 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban13 {
-  background-color: lightcoral;
-  color: black;
-}
-input[type="checkbox"]:checked + .label-ban14 {
-  background-color: lightcoral;
-  color: black;
+  -webkit-user-select: none;
+  user-select: none;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5) inset;
 }
 .container-pick {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  display: grid;
   padding: 10px;
   border-radius: 20px;
-  border: 1px solid rgb(0, 119, 255);
+  border: 1px solid #afcbff;
   margin-top: 10px;
   column-gap: 10px;
   row-gap: 10px;
@@ -151,34 +53,23 @@ input[type="checkbox"]:checked + .label-ban14 {
 .hero-counter {
   position: relative;
 }
-.hero-counter .counter-tooltip {
+.counter-tooltip {
   position: absolute;
   background-color: rgba(255, 255, 255, 0.25);
-  column-gap: 10px;
-  padding: 5px 10px;
+  padding: 5px 5px;
   border-radius: 10px;
   border: 1px solid white;
-  bottom: 0px;
-  left: 50px;
-  display: flex;
-  opacity: 0;
-  transition: opacity 0.25s ease-in-out;
+  top: 0px;
+  visibility: hidden;
+  transition: opacity 0.25s ease, transform 0.25s ease;
   pointer-events: none;
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
   z-index: 1000;
+  opacity: 0;
 }
 .hero-counter:hover .counter-tooltip {
+  transform: translateX(-65px);
+  visibility: visible;
   opacity: 1;
-}
-
-input[type="checkbox"]:checked + #label-pick1 {
-  background-color: lightblue;
-  color: red;
-  font-weight: 500;
-}
-input[type="checkbox"]:checked + #label-pick2 {
-  background-color: lightblue;
-  color: red;
-  font-weight: 500;
 }

@@ -1,0 +1,8 @@
+[id^="checkbox"]:checked ~ [class^="label-ban"] {
+  background-color: #ea284b;
+  color: black;
+}
+[id^="checkbox"]:checked ~ .hero-counter {
+  filter: saturate(0);
+  z-index: 1000;
+}
