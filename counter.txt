@@ -26,7 +26,7 @@ beatrix = chou natalia selena lolita saber yin
 bruno = lolita layla estes barats ixia mathilda
 
 C
-clint = kagura aldous benet karina fanny beatrix brody mathilda alucard estes benedetta
+clint = kagura aldous benedetta karina fanny beatrix brody mathilda alucard estes benedetta zhask
 cecilion = ling lancelot aldous lolita hanzo kadita novaria hayabusa khaleed
 chou = Lukas phoveus cyclops eudora chip
 cici = sun ling lancelot akai yve eudora mathilda xborg masha arlott estes
@@ -38,7 +38,7 @@ cyclops = lolita barats carmilla atlas layla ixia estes
 
 D
 dyrroth = lylia thamuz silvana chou lunox argus ruby harith phoveus kagura kaja masha benedetta minsitthar atlas
-diggie = julian hanzo change angela estes franco natalia floryn grock hilda freya layla
+diggie = julian hanzo change angela estes franco natalia floryn grock hilda freya layla khaleed
 
 E
 eudora = lukas fredrinn edith barats hanabi martis zhask hylos gatotkaca roger aurora alpha sun akai nana balmond
@@ -73,7 +73,7 @@ hayabusa = vexana popolkupa eudora saber zhask chip hilda khaleed
 
 I
 ixia = hanzo wanwan kadita natalia claude gloo grock kagura
-irithel = bordy bruno eudora karina alucard miya
+irithel = bordy bruno eudora karina alucard miya hylos harley cyclops hayabusa ling
 
 J
 joy = khaleed moskov eudora odette harley cyclops alice bruno
@@ -83,7 +83,7 @@ jawhead = sun popolkupa atlas hanabi minotaur
 
 K
 karina = franco chou dyrroth fanny xborg khaleed lapu-lapu lunox sun kaja paquito suyou bordy granger jawhead clint diggie faramis
-kaja = alice xborg change franco popolkupa kagura benet harley fredrinn barats baxia uranus hanzo cyclops 
+kaja = alice xborg change franco popolkupa kagura benedetta harley fredrinn barats baxia uranus hanzo cyclops 
 khaleed = phoveus freya karrie hilda fanny
 kadita = faramis kaja wanwan martis valentina leomord yss kadita
 kagura = harith phoveus fredrinn kaja lukas
@@ -91,7 +91,7 @@ kufra = yss barats bane alice phoveus valentina minotaur
 karrie = diggie rafaela sun xborg argus guinevere
 
 L
-lancelot = kufra ruby lylia kadita eudora brody chou benet helcurt natalia kaja saber alucard faramis angela mathilda
+lancelot = kufra ruby lylia kadita eudora brody chou benedetta helcurt natalia kaja saber alucard faramis angela mathilda uranus
 lylia = kaja saber harley edith popolkupa suyou mathilda
 Lukas = cici thamuz phoveus alpha
 ling = Lukas natalia karina cyclops saber hilda bruno karina
@@ -172,4 +172,4 @@ yss = uranus hilda estes karina alucard angela khaleed alpha
 Z
 zilong = lukas jawhead johnson miya eudora popolkupa karina chip
 zhuxin = Belerick arlott badang zhask diggie hayabusa khaleed
-zhask = baxia ruby belerick sun vexana
+zhask = baxia ruby belerick sun vexana karrie claude
