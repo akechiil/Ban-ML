@@ -1,14 +1,15 @@
 .container,
 .container-pick {
+  display: grid;
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 10px;
+  column-gap: 10px;
+  row-gap: 10px;
 }
 
 .container {
-  display: grid;
   border: 1px solid #ea284b;
-  padding: 10px;
-  border-radius: 20px;
-  column-gap: 10px;
-  row-gap: 10px;
 }
 .container-hero {
   border-radius: 50px;
@@ -43,12 +44,7 @@ label {
 }
 .container-pick {
   display: grid;
-  padding: 10px;
-  border-radius: 20px;
   border: 1px solid #afcbff;
-  margin-top: 10px;
-  column-gap: 10px;
-  row-gap: 10px;
 }
 .hero-counter {
   position: relative;
