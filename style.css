@@ -46,16 +46,15 @@ label {
   display: grid;
   border: 1px solid #afcbff;
 }
-.hero-counter {
+[class^="hero-counter"] {
   position: relative;
 }
-.counter-tooltip {
+[class^="counter-tooltip"] {
   position: absolute;
   background-color: rgba(255, 255, 255, 0.25);
   padding: 5px 5px;
   border-radius: 10px;
   border: 1px solid white;
-  top: 0px;
   visibility: hidden;
   transition: opacity 0.25s ease, transform 0.25s ease;
   pointer-events: none;
@@ -64,8 +63,14 @@ label {
   z-index: 1000;
   opacity: 0;
 }
-.hero-counter:hover .counter-tooltip {
-  transform: translateX(-65px);
+.counter-tooltip {
+  top: 0px;
+}
+.counter-tooltip1 {
+  bottom: 0px;
+}
+[class^="hero-counter"]:hover [class^="counter-tooltip"] {
   visibility: visible;
+  transform: translateX(-65px);
   opacity: 1;
 }

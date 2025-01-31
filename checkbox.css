@@ -10,3 +10,7 @@
   filter: saturate(0);
   z-index: 1000;
 }
+[id^="checkbox"]:checked ~ .hero-counter1 {
+  dropshadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  z-index: 1000;
+}
