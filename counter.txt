@@ -69,7 +69,7 @@ H
 hanzo = natalia harley saber yss argus zilong vale tigreal helcurt ling lancelot lunox nolan joy benedetta wanwan kadita fanny claude aldous change irithel johnson moskov chou kagura hayabusa karina kimmy
 hilda = tigreal jawhead sun dyrroth wanwan valir esmeralda alpha karrie estes cici yve lunox kimmy
 helcurt = hylos kufra eudora natalia saber kaja brody khaleed aldous karina chip johnson
-harith = moskov bruno granger kaja franco minsitthar phoveus freya masha xavier cyclops chou aamon
+harith = moskov bruno granger kaja franco minsitthar phoveus freya masha xavier cyclops chou aamon esmeralda
 hylos = cici xborg karrie xavier rafaela valir alpha lukas lunox yve kimmy
 hanabi = yve granger belerick lunox esmeralda lolita gloo argus pharsa lapu-lapu
 harley = khaleed sun lolita popolkupa eudora fredrinn roger
@@ -173,7 +173,7 @@ Y
 yin = dyrroth karina sun paquito argus freya zhask fanny gatotkaca wanwan kagura khaleed
 yuzhong = lunox balmond paquito masha wanwan diggie harith
 yve = kadita hanzo fanny wanwan novaria claude ling Hayabusa
-yss = uranus hilda estes karina alucard angela khaleed alpha aulus aamon
+yss = uranus hilda estes karina alucard angela khaleed alpha aulus aamon esmeralda
 
 Z
 zilong = lukas jawhead johnson miya eudora popolkupa karina chip aamon
