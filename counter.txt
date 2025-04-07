@@ -24,7 +24,7 @@ benedetta = cici valentina saber zilong phoveus irithel yss
 bane = nolan ixia hanzo vale helcurt gord lolita
 belerick = novaria xavier brody granger hanzo lesley xborg bane clint
 bordy = sun yss faramis zhask diggie masha popolkupa
-beatrix = chou natalia selena lolita saber yin
+beatrix = chou natalia selena lolita saber yin yuzhong
 bruno = lolita layla estes barats ixia mathilda
 
 C
@@ -53,7 +53,7 @@ fanny = saber franco kaja eudora kufra moskov badang bruno zilong masha bane
 fredrinn = cici valir hanzo xborg karrie baxia edith cecilion hylos balmond
 floryn = nolan yin franco eudora lolita ixia
 faramis = julian melissa luo-yi barats leomord estes alice bane lapu-lapu aulus
-freya = esmeralda minsitthar jawhead edith baxia franco barats nana guinevere
+freya = esmeralda minsitthar jawhead edith baxia franco barats nana guinevere badang
 franco = hanzo johnson sun tigreal atlas fredrinn
 
 G
@@ -99,7 +99,7 @@ L
 lancelot = kufra ruby lylia kadita eudora brody chou benedetta helcurt natalia kaja saber alucard faramis angela mathilda uranus
 lylia = kaja saber harley edith popolkupa suyou mathilda wanwan valentina guinevere
 Lukas = cici thamuz phoveus alpha karrie julian valir fanny
-ling = Lukas natalia karina cyclops saber hilda bruno karina
+ling = Lukas natalia karina cyclops saber hilda bruno ruby
 lunox = suyou badang yve faramis luo-yi gord cecilion ruby
 lolita = Zhuxin ixia melissa yve khaleed cecilion esmeralda harith leomord claude pharsa zhask aurora kagura gord freya hanzo minotaur tigreal fanny clint
 luo-yi= novaria benedetta hanzo lolita selena joy gord
