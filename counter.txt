@@ -83,7 +83,7 @@ J
 joy = khaleed moskov eudora odette harley cyclops alice bruno fredrinn
 julian = baxia granger minsitthar gord edith thamuz guinevere jawhead khaleed
 johnson = edith kadita belerick lunox gatotkaca fredrinn lylia chou
-jawhead = sun popolkupa atlas hanabi minotaur lunox
+jawhead = sun popolkupa atlas hanabi minotaur lunox tigreal
 
 K
 karina = franco chou dyrroth fanny xborg khaleed lapu-lapu lunox sun kaja paquito suyou bordy granger jawhead clint diggie faramis

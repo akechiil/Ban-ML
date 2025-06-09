@@ -2,3 +2,5 @@ Hero blink: phoveus ruby kufra minsitthar
 Hero Hp tinggi: karrie alpha valir sun xborg cici gord lunox claude cecilion
 Hero Def tinggi: karrie sun xborg dyrroth lesley gord lunox harith natan
 Hero lifesteal: baxia
+Hero Jalan kaki: zhuxin valir vye hylos
+Jungler Fighter: zhuxin
