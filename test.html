@@ -1,56 +1,118 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Loading Example</title>
+    <title>Hero Pick/Ban</title>
+    <link rel="stylesheet" href="test.css" />
     <style>
-      .loading-container {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.9);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 9999;
-      }
-
-      .spinner {
-        border: 4px solid rgba(0, 0, 0, 0.1);
-        border-top: 4px solid #3498db;
-        border-radius: 50%;
-        width: 40px;
-        height: 40px;
-        animation: spin 1s linear infinite;
-      }
-
-      @keyframes spin {
-        0% {
-          transform: rotate(0deg);
-        }
-        100% {
-          transform: rotate(360deg);
-        }
+      .grayscale {
+        filter: saturate(0);
       }
     </style>
   </head>
   <body>
-    <div class="loading-container" id="loading">
-      <div class="spinner"></div>
-    </div>
+    <section class="container">
+      <!-- Miya -->
+      <div class="container-hero" data-hero="Miya">
+        <input type="checkbox" id="ban-miya-1" class="ban-checkbox" />
+        <label for="ban-miya-1" class="label-ban">Ban</label>
+        <div class="hero-counter">
+          <img src="Hero/Miya.png" class="img-hero" />
+        </div>
+      </div>
+      <!-- Balmond -->
+      <div class="container-hero" data-hero="Balmond">
+        <input type="checkbox" id="ban-balmond-1" class="ban-checkbox" />
+        <label for="ban-balmond-1" class="label-ban">Ban</label>
+        <div class="hero-counter">
+          <img src="Hero/Balmond.png" class="img-hero" />
+        </div>
+      </div>
+    </section>
 
-    <div id="content" style="display: none">
-      <h1>Website telah dimuat!</h1>
-    </div>
-    <!--
+    <section class="container-pick">
+      <!-- Miya -->
+      <div class="container-hero" data-hero="Miya">
+        <input type="checkbox" id="pick-miya-1" class="pick-checkbox" />
+        <label for="pick-miya-1" class="label-pick">Pick</label>
+        <div class="hero-counter1">
+          <img src="Hero/Miya.png" class="img-hero" />
+        </div>
+      </div>
+      <!-- Balmond -->
+      <div class="container-hero" data-hero="Balmond">
+        <input type="checkbox" id="pick-balmond-1" class="pick-checkbox" />
+        <label for="pick-balmond-1" class="label-pick">Pick</label>
+        <div class="hero-counter1">
+          <img src="Hero/Balmond.png" class="img-hero" />
+        </div>
+      </div>
+    </section>
+
+    <section class="container-meta">
+      <!-- Miya -->
+      <div class="container-hero" data-hero="Miya">
+        <input type="checkbox" id="meta-miya-1" class="pick-checkbox" />
+        <label for="meta-miya-1" class="label-pick">Pick</label>
+        <div class="hero-counter-meta">
+          <img src="Hero/Miya.png" class="img-hero" />
+        </div>
+      </div>
+      <!-- Balmond -->
+      <div class="container-hero" data-hero="Balmond">
+        <input type="checkbox" id="meta-balmond-1" class="pick-checkbox" />
+        <label for="meta-balmond-1" class="label-pick">Pick</label>
+        <div class="hero-counter-meta">
+          <img src="Hero/Balmond.png" class="img-hero" />
+        </div>
+      </div>
+    </section>
+
+    <!-- SCRIPT -->
     <script>
-        window.onload = function() {
-            document.getElementById("loading").style.display = "none";
-            document.getElementById("content").style.display = "block";
-        };
-    </script>-->
+      document.addEventListener("DOMContentLoaded", () => {
+        const allHeroCards = document.querySelectorAll("[data-hero]");
+
+        function updateAll(heroName, action) {
+          allHeroCards.forEach((card) => {
+            if (card.dataset.hero === heroName) {
+              // Tambahkan filter hitam-putih
+              const imgs = card.querySelectorAll(
+                ".hero-counter, .hero-counter1, .hero-counter-meta"
+              );
+              imgs.forEach((i) => i.classList.add("grayscale"));
+
+              // Ganti warna tombol dan teks
+              const label = card.querySelector("label");
+              if (label) {
+                if (action === "ban") {
+                  label.textContent = "Ban";
+                  label.style.backgroundColor = "#ea284b";
+                  label.style.color = "black";
+                } else if (action === "pick") {
+                  label.textContent = "Pick";
+                  label.style.backgroundColor = "#2865ea";
+                  label.style.color = "black";
+                }
+              }
+            }
+          });
+        }
+
+        document
+          .querySelectorAll("input[type='checkbox']")
+          .forEach((checkbox) => {
+            checkbox.addEventListener("change", () => {
+              const heroName = checkbox.closest("[data-hero]").dataset.hero;
+              if (checkbox.classList.contains("ban-checkbox")) {
+                updateAll(heroName, "ban");
+              } else if (checkbox.classList.contains("pick-checkbox")) {
+                updateAll(heroName, "pick");
+              }
+            });
+          });
+      });
+    </script>
   </body>
 </html>

@@ -1,4 +1,3 @@
-- Tambahin hero Kalea
 - Warna pick musuh atau tim
 - Diatas pick ada saran pick
 - Saran pick Gloo, Badang, Phove, Luo yi, Lukas, Pharsa
